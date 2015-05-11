@@ -4,7 +4,7 @@ wonder-to-wunder
 This was only kinda my idea, but was mostly created because of peer pressure. :wink:
 Chrome extension that replaces occurrences of 'wonder' with 'wunder' and '-ly' with 'lee'
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
+[Direct download of crx file](https://github.com/jaywunder/wonder-to-wunder/blob/master/WonderToWunder.crx?raw=true)
 
 Installation
 ------------

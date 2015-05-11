@@ -19,3 +19,7 @@ After Installation
 
  * [Find out what a Leericist is](http://en.wikipedia.org/wiki/Lyricist)
  * [What does "wunder" most commonlee refer to?](http://en.wikipedia.org/wiki/Wonder)
+
+WHY?!
+-----
+![](https://raw.githubusercontent.com/jaywunder/wonder-to-wunder/master/Screen%20Shot%202015-05-10%20at%208.27.29%20PM.png)
